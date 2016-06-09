@@ -14,7 +14,7 @@
  * @package    Curator Database
  * @author     James Druhan <jdruhan.home@gmail.com>
  * @copyright  2016 James Druhan
- * @version    1.0
+ * @version    v1.0
  */
 namespace Curator\Database;
 
